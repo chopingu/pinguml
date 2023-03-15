@@ -1,5 +1,5 @@
 ```
-pinguml
+Pinguml
 
-a small machine learning framework for self-education purposes
+A machine learning framework for self-education purposes
 ```
